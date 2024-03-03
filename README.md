@@ -21,6 +21,7 @@
 
 
 The workflow script is present under the tests folder with the name as amazonWorkflow.spec.ts
+
  The pageModel folder contains the amazonPage.ts where all the async functions are stored.
  
 
