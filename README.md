@@ -1,7 +1,7 @@
 
 **Playwright framework used for rtCamp Assignment**
 
-To execute your Playwright scripts from GitHub, you typically follow these steps:
+**To execute your Playwright scripts from GitHub, you typically follow these steps:**
 
 1: Clone the git repository to the local machine
 
@@ -19,6 +19,10 @@ To execute your Playwright scripts from GitHub, you typically follow these steps
   
   ![image](https://github.com/maharrshi/playwright-framework/assets/110522049/e5d3491e-e596-4afd-8485-f7cbef401b5d)
 
+
+The workflow script is present under the tests folder with the name as amazonWorkflow.spec.ts
+ The pageModel folder contains the amazonPage.ts where all the async functions are stored.
+ 
 
 
   
